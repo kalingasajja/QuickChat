@@ -10,7 +10,7 @@ const App = () => {
   const {authUser} = useContext(AuthContext);
     console.log("App.js - Current authUser:", authUser);
   return (
-    <div className="bg-[url('./src/assets/image.png')] bg-contain">
+    <div className="bg-[url('/image.png')] bg-contain">
 
       <Toaster />
       <Routes>
