@@ -6,6 +6,9 @@ preview : https://kal-q-frontend.vercel.app/
 
 <img width="1914" height="904" alt="Screenshot 2025-08-13 204948" src="https://github.com/user-attachments/assets/e1c11b08-5011-452a-8020-ab59d0e8559f" />
 
+<img width="1569" height="832" alt="image" src="https://github.com/user-attachments/assets/4d4d12f6-a272-4bf6-bf46-94a73cac945f" />
+
+
 <img width="1839" height="857" alt="image" src="https://github.com/user-attachments/assets/1dad9e6d-4e7a-4aec-a90c-77e085ca1256" />
 
 
